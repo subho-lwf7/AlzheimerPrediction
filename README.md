@@ -1,4 +1,4 @@
-Alzheimer Prediciton using- enseNet169
+Alzheimer Prediciton using- DenseNet169
 A CNN model to classify Alzeimer's disease in a patient using DenseNet-169 pretrained keras weights  
 
 The dataset can be found here: https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset
