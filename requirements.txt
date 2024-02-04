@@ -1,9 +1,7 @@
-keras
+
 matplotlib
 numpy
-pandas
-requests
+
 streamlit
 tensorflow
-tensorrt
-setuptools
+
