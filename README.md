@@ -1,3 +1,5 @@
+## Try it live: https://alzheimerprediction.streamlit.app/
+
 Alzheimer Prediciton using- DenseNet169
 A CNN model to classify Alzeimer's disease in a patient using DenseNet-169 pretrained keras weights  
 Developed a machine learning based predictive model for Alzheimer's disease using MRI Datasets.
