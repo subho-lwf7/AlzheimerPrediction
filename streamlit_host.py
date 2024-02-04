@@ -12,7 +12,7 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator,load_img, im
 import numpy as np
 from keras.preprocessing.image import img_to_array, load_img
 
-model = tf.keras.models.load_model("H:\Programs\Project\ML\densenet.h5")
+model = tf.keras.models.load_model(".\densenet.h5")
 
 def preprocess_image(image_path, target_size=(128, 128)):
     # Load the uploaded image
