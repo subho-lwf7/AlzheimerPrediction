@@ -1,4 +1,4 @@
-## Try it live:  https://alzheimerdiseaseprediciton.streamlit.app/
+## Try it live:  https://alzheimer-prediciton.streamlit.app/
 
 Alzheimer Prediciton using- DenseNet169
 A CNN model to classify Alzeimer's disease in a patient using DenseNet-169 pretrained keras weights  
